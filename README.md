@@ -1,6 +1,6 @@
 # used-car-price-estimation
 
-#Authors
+# Authors
 - Juan Fernando Martinez
 - Danna Sofía García
 - Andrea Nuñez
