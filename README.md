@@ -1,5 +1,11 @@
 # used-car-price-estimation
 
+#Authors
+- Juan Fernando Martinez
+- Danna Sofía García
+- Andrea Nuñez
+- Camilo Cordoba
+
 ## Run backend
 
 Neccesary python modules:
